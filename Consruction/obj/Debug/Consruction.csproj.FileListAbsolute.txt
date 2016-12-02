@@ -1,0 +1,13 @@
+c:\users\megabit\documents\visual studio 2015\Projects\Consruction\Consruction\bin\Debug\Consruction.exe.config
+c:\users\megabit\documents\visual studio 2015\Projects\Consruction\Consruction\bin\Debug\Consruction.exe
+c:\users\megabit\documents\visual studio 2015\Projects\Consruction\Consruction\bin\Debug\Consruction.pdb
+c:\users\megabit\documents\visual studio 2015\Projects\Consruction\Consruction\obj\Debug\Consruction.csprojResolveAssemblyReference.cache
+c:\users\megabit\documents\visual studio 2015\Projects\Consruction\Consruction\obj\Debug\Consruction.Authorization.resources
+c:\users\megabit\documents\visual studio 2015\Projects\Consruction\Consruction\obj\Debug\Consruction.Properties.Resources.resources
+c:\users\megabit\documents\visual studio 2015\Projects\Consruction\Consruction\obj\Debug\Consruction.RegistrationEmployee.resources
+c:\users\megabit\documents\visual studio 2015\Projects\Consruction\Consruction\obj\Debug\Consruction.csproj.GenerateResource.Cache
+c:\users\megabit\documents\visual studio 2015\Projects\Consruction\Consruction\obj\Debug\Consruction.exe
+c:\users\megabit\documents\visual studio 2015\Projects\Consruction\Consruction\obj\Debug\Consruction.pdb
+c:\users\megabit\documents\visual studio 2015\Projects\Consruction\Consruction\obj\Debug\Consruction.RegistrationEmployer.resources
+C:\Users\megabit\Documents\Visual Studio 2015\Projects\Consruction\Consruction\obj\Debug\Consruction.formEmployers.resources
+C:\Users\megabit\Documents\Visual Studio 2015\Projects\Consruction\Consruction\obj\Debug\Consruction.formEmployees.resources
